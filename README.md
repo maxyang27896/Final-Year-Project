@@ -8,5 +8,5 @@ The following codes contain the solution to the optimal control problem of a non
 - Dynamic Control Law  
 - Direct Collocation.    
 
-The dynamic control law is the key focus of this project which provides an optimised control strategy that is superior to the LQR and SDRE performance and is more robust than direct collocation. Direct collocation is a numerical optimisation approach of solving the optimal control problem and has been used to demonstrate the optimality of this dynamic control law. 
+The dynamic control law is the key focus of this project which provides an optimised control strategy that is superior to the LQR and SDRE performance and is more robust than direct collocation. Direct collocation is a numerical approach to solving the optimal control problem and has been used to demonstrate control optimality in this project. 
 
